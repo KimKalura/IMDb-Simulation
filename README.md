@@ -1,11 +1,11 @@
 # # Hi, I'm Raluca! 👋
 
-And here you can find the documentation of the IMDb Clone
+Here you can find the documentation of the IMDb Clone project
 
 ## 🚀 About Me
 
 💻(Aspiring) back-end software developer | 👨‍💻Helping companies to build great back-ends | Java, Spring Boot |
-Passionate about solving problems using technology | 💼 Actively looking for a job
+Passionate about solving problems using technology 
 
 ## 🛠 Skills
 
@@ -42,6 +42,18 @@ As a user, I can:
 ## Built with
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+## Prerequisites
+
+For building and running the application you need:
+- JDK 1.8 or higher
+- Maven 3
+
+## Dependencies
+
+You don't need any additional dependencies.  All dependecies related to database management, server management, security management and so on, will be automatically injected by Maven using the pom.xml file located in the root folder of the project.
+
+## Installation
 
 Clone the project
 
